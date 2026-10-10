@@ -11,3 +11,12 @@ int main(){
     }
     return 0;
 }
+
+
+//out put
+**
+//enter the number of element
+//3
+//enter the array elements
+//2 0 -3 
+**
