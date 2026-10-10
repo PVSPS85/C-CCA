@@ -21,3 +21,13 @@ int main(){
 
     return 0;
 }
+
+/*
+    *pranav@Pranavs-MacBook-Air array % ./sum
+    *enter the number of elements
+    *3
+    *the array elements
+    *1 2 3
+    *the sum of the numbers is : 6
+    *the avg of the numbers is : 2
+    */
